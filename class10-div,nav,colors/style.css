@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(138, 43, 226);
+    width: 600px;
+   
+    border: 10px solid rgb(0, 128, 0);
+    border-radius: 10px;
+    text-align: justify;
+    display: inline-block;
+    margin: 20px;
+    
+   
+
+}
+p{
+    overflow:auto;
+    width: 599px;
+    height: 200px;
+}
+#mainheading{
+    text-align: center;
+    font-size: 3rem;
+    
+    
+}
+
